@@ -40,7 +40,9 @@ values."
      yaml
 
      helm
-     (auto-completion :variables auto-completion-enable-snippets-in-popup t auto-completion-complete-with-key-sequence-delay 0.2 auto-completion-enable-help-tooltip t auto-completion-private-snippets-directory "~/yasnippet")
+     (auto-completion :variables auto-completion-enable-snippets-in-popup t auto-completion-complete-with-key-sequence-delay 0.5 auto-completion-enable-help-tooltip t auto-completion-private-snippets-directory "~/yasnippet")
+     ;;auto-compile
+     ;;auto-completion
      ;; better-defaults
      colors
      django
